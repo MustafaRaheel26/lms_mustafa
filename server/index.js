@@ -12,7 +12,7 @@ import courseProgressRoute from "./routes/courseProgress.route.js";
 
 dotenv.config({});
 
-const _dirname = path.resolve();
+
 
 // call database connection here
 connectDB();
